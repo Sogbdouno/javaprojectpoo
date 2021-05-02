@@ -1,0 +1,11 @@
+controllers/GestEtudiant.class
+sn/groupesupinfo/gestionformation/Etudiant.class
+sn/groupesupinfo/gestionformation/implementation/GroupeEtudiantImple.class
+sn/groupesupinfo/menu/TestMenu.class
+InterfaceProjet/IGestionProjet.class
+controllers/GestGroupe.class
+sn/groupesupinfo/gestionformation/Personne.class
+sn/groupesupinfo/gestionformation/Groupe.class
+sn/groupesupinfo/gestionformation/Professeur.class
+controllers/Menu.class
+controllers/GestProfesseur.class
